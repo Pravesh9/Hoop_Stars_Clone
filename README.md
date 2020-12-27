@@ -11,3 +11,5 @@ You can change the time as per your requirement in "Timer" Script
 You can change the min Points Needed to win the game in "ScoreManager" Script
 
 Changes Can be done via Inspector
+
+Project has been done using Unity Version - 2019.3.14f1
