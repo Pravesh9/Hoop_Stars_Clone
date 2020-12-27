@@ -10,4 +10,4 @@ You can change the time as per your requirement in "Timer" Script
 
 You can change the min Points Needed to win the game in "ScoreManager" Script
 
-Changs Can be done via Inspector
+Changes Can be done via Inspector
